@@ -1,1 +1,1 @@
-A fully responsive Myntra Clone website made using HTML, CSS, and JavaScript.
+A fully responsive Myntra Clone website made using HTML and CSS.
